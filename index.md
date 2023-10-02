@@ -15,6 +15,10 @@ var myVar = "Hello, world!";
 ### Header 3 cpp
 ``` cpp
 string myVar = "Hello, world!";
-``` 
+```
+## Header 2 task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ## Header 2 Yaktocat image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
